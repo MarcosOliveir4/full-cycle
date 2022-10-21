@@ -7,7 +7,7 @@ Esse repositório documenta meus estudos na jornada Full Cycle 3.0.
 ### Docker
 
 - [x] Capítulo 1
-- [ ] Capítulo 2
+- [x] Capítulo 2
 - [ ] Capítulo 3
 - [ ] Capítulo 4
 - [ ] Capítulo 5
